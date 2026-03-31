@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && pip install -r requirements.txt",
+    "working_directory": "/home/kavia/workspace/code-generation/campus-navigator-platform-251202-251216/backend_api"
+}
